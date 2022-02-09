@@ -11378,7 +11378,7 @@ p {
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
-    font-size: 1.5em;
+    font-size: 5em;
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
